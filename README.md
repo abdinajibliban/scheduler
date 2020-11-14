@@ -30,4 +30,4 @@ THEN the saved events persist
 
 ## The Result
 
-I made a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. To work with dates and timee, I used Moment.js. The user can input his event information to the designated timeslot. He/She can save the event. The can also press a button in the navbar area above to clear the calendar. This feature allows users to reuse the same calendar on multiple different occasions. 
+I made a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and features dynamically updated HTML and CSS powered by jQuery. To work with dates and time, I used Moment.js. The user can input his event information to the designated timeslot. He/She can save the event. They can also click a button in the navbar area above to clear the calendar. This feature allows users to reuse the same calendar on multiple different occasions. 
